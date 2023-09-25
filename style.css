@@ -1,0 +1,16 @@
+<link rel="stylesheet" type="text/css" href="index.css">
+
+#bio-intro{
+  background:lightgray;
+  width: 1000%
+}
+
+#img-container {
+  display: inline-block;
+  width: 1000%
+}
+
+#img-container {
+  border-radius: 100%;
+  max-width: 150px
+}
